@@ -1,2 +1,4 @@
 # Pilot Project 1 - PiRacer
-Please find the subject file in subject folder.
+
+- ### [PiRacer Assemble](https://github.com/jacey-h/Pilot-Project-1/tree/main/reference/PiRacer%20Assemble)
+- ### [PiRacer Control](https://github.com/jacey-h/Pilot-Project-1/tree/main/reference/PiRacer%20Control)
